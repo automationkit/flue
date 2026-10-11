@@ -1,0 +1,13 @@
+**/.astro/
+**/.flue-vite/
+**/.wrangler/
+**/dist/
+**/node_modules/
+**/.turbo/
+**/.cache/
+packages/cli/src/generated/
+blueprints/sandbox*.md
+blueprints/channel*.md
+blueprints/database*.md
+blueprints/tooling*.md
+plans/
